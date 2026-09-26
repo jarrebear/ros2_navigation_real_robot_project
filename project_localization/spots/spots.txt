@@ -1,0 +1,22 @@
+label: crosswalk
+position:
+  x: -0.0183799
+  y: -0.101573
+  z: 0
+orientation:
+  x: 0
+  y: 0
+  z: 0.00756193
+  w: 0.999971
+
+label: corner
+position:
+  x: 0.707992
+  y: -0.0434432
+  z: 0
+orientation:
+  x: 0
+  y: 0
+  z: -0.721202
+  w: 0.692725
+
